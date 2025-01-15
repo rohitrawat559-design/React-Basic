@@ -1,5 +1,5 @@
 import React from 'react'
-import {employees} from '../utils/data'
+import {employees} from '../utils/data/data'
 
 function LoopJSx() {
     
